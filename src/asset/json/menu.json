@@ -1,0 +1,26 @@
+{
+  "menu": [
+    { "id": 0, "route": "Home", "link": "/" },
+    { "id": 1, "route": "Services", "link": "/service" },
+    { "id": 2, "route": "About", "link": "/about" },
+    { "id": 3, "route": "Contact", "link": "/contact" },
+    { "id": 4, "route": "Gallery", "link": "/gallery" }
+  ],
+  "testimonials": [
+    {
+      "id": 0,
+      "message": "It is everyone's responsibility to prevent unethical, illegal or unsafe conducts to our company and it's customers...",
+      "client": "Coca-Cola Enterprises Inc."
+    },
+    {
+      "id": 1,
+      "message": "Your presentation on 'Workplace-Good Practice Guidance', enable departments to engage and actively demonstrate effective partnership working across all work streams, irrespective of levels",
+      "client": "Richard Pullen, Director-Local & Regional Government, Defra.UK"
+    },
+    {
+      "id": 2,
+      "message": "Any executive can be polished, it takes an extraordinary executive to be ethical as well",
+      "client": "Corby O'Connor, a New Jersey expert on business etiquette and protocol"
+    }
+  ]
+}

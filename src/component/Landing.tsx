@@ -19,7 +19,7 @@ export default function Landing() {
       </div>
       <div className={`flex flex-col gap-3`}>
         <div
-          className={`text-3xl tracking-[.25em] ${inter.className} sm:text-5xl text-white`}
+          className={`text-3xl tracking-[.25em] ${inter.className} sm:text-5xl text-white text-center`}
         >
           COMPANY PROFILE
         </div>

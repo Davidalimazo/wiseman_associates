@@ -2,7 +2,6 @@ import Header from "@/component/Header";
 import RootStyleRegistry from "./emotion";
 import "./globals.css";
 import { Inter } from "next/font/google";
-// import { SessionProvider } from "next-auth/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -10,8 +9,8 @@ export const metadata = {
   title: "Wiseman Associates",
   manifest: "/site.webmanifest",
   description: "Public speaking and legal advisers",
-  applicationName: "wiseman",
-  generator: "wiseman",
+  applicationName: "wiseman associates",
+  generator: "wiseman associates",
   metadataBase: new URL("https://wisemanassociates.com"),
   authors: [
     { name: "Alimazoya David", url: "https://davidalimazo.vercel.app" },
@@ -21,8 +20,9 @@ export const metadata = {
   publisher: "Alimazoya David",
   icons: {
     icon: {
-      url: "/favicon-32x32.png",
+      url: "/favicon.png",
       type: "image/png",
+      rel: "icon",
     },
     shortcut: { url: "favicon-32x32.png", type: "image/png" },
   },

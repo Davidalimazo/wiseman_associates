@@ -36,7 +36,7 @@ export default function Service() {
             ** The American Board of NLP is the world's largest authority in NLP
           </h3>
           <div className="mt-10">
-            <h2 className="p-2 bg-gray-400 text-white text-lg rounded-tr-lg md:w-2/5">
+            <h2 className="p-2 bg-gray-400 text-white text-lg rounded-r-lg md:w-2/5">
               Introducing your trainers
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 mt-10">
@@ -79,6 +79,48 @@ export default function Service() {
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+          <div className="">
+            <h2 className="p-2 mt-10 bg-gray-400 text-white text-lg rounded-r-lg md:w-2/5">
+              Why NLP
+            </h2>
+            <h3 className="font-normal mt-5 text-md text-white w-full sm:w-3/5 md:3/5">
+              NLP is a set of tools, processes, techniques and skills that can
+              be used to create positive changes in yourself and others.
+            </h3>
+            <h3 className="font-normal mt-5 text-md text-white w-full">
+              You will learn how to:
+            </h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 mt-10 mx-10">
+              <ul className="list-disc text-white">
+                <li className="">
+                  Be a powerful and inspirational communicator
+                </li>
+                <li className="">
+                  Be highly skilled with non-verbal communication
+                </li>
+                <li className="">Master successful habits and be in control</li>
+                <li className="">Take control of emotional states</li>
+                <li className="">Take control of emotional states</li>
+                <li className="">Speed up your learning in any field</li>
+                <li className="">Detects pattern in human behaviour</li>
+                <li className="">
+                  Make dramatic and positive changes in thinking
+                </li>
+                <li className="">Model characteristics of high achievers</li>
+              </ul>
+              <ul className="list-disc text-white">
+                <li className="">Remove limiting beliefs</li>
+                <li className="">Crreate empowering beliefs</li>
+                <li className="">Master success mindset</li>
+                <li className="">Control state of motivation</li>
+                <li className="">Build rapport with anyone</li>
+                <li className="">Diffuse tense situations</li>
+                <li className="">Defuse tense situations</li>
+                <li className="">Use states of mind</li>
+                <li className="">Master language</li>
+              </ul>
             </div>
           </div>
         </div>
